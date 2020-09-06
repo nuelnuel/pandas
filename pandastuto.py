@@ -75,8 +75,7 @@ haas = dt.groupby(['Type 1', 'Type 2'])
 # print(dt)
 
 
-
-
+x222 = 22
 
 
 
